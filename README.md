@@ -2,7 +2,7 @@
 
 ![Gemini_Generated_Image_znlozznlozznlozz](https://github.com/user-attachments/assets/aa94bf48-3a64-477c-b238-83b295b2f826)
 
-An end-to-end Retrieval-Augmented Generation (RAG) system built entirely on local infrastructure using Ollama, LangChain, and ChromaDB. 
+An end-to-end Retrieval-Augmented Generation (RAG) system built entirely on local infrastructure using Ollama, LangChain, and Chroma. 
 This lightweight AI agent performs context-grounded document question answering by embedding and retrieving structured data (CSV) and generating responses through local LLMs—without reliance on cloud APIs or internet connectivity.
 
 ---
