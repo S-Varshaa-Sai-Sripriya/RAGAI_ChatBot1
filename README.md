@@ -1,4 +1,4 @@
-# 🧠 Local RAG-Based AI Agent with Ollama, LangChain, and ChromaDB
+# 🧠 Local RAG-Based AI Agent with Ollama, LangChain, and Chroma
 
 ![Gemini_Generated_Image_znlozznlozznlozz](https://github.com/user-attachments/assets/aa94bf48-3a64-477c-b238-83b295b2f826)
 
